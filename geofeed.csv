@@ -6,5 +6,7 @@
 38.180.2.0/24,BG,BG-23,Sofia,
 38.180.3.0/24,BG,BG-23,Sofia,
 38.180.4.0/23,US,US-CA,LosAngelos,
-38.180.6.0/24,US,US-NY,NewYour,
+38.180.6.0/24,US,US-NY,NewYourk,
+38.180.7.0/24,JP,JP-13,Tokyo,
+38.180.8.0/24,GB,GB-ENG,London,
 2a02:c6c1:b::/48,AE,,Dubai,

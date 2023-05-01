@@ -30,6 +30,7 @@
 38.180.21.0/24,IE,IE-D,Dublin,
 38.180.22.0/24,IT,IT-MI,Milano,
 38.180.23.0/24,AT,AT-9,Wien,
+38.180.24.0/24,PL,PL-22,Gdansk,
 2a02:c6c1:b::/48,AE,AE-DU,Dubai,
 2a02:c6c1:c::/48,UA,,Kiev,
 2a02:c6c1:d::/48,US,US-NY,NewYourk,
